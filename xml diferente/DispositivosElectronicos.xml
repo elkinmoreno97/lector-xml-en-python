@@ -1,0 +1,188 @@
+<DispositivosElectronicos>
+    <Pc>
+        <portatil>
+            <Lenovo>
+                <nombre> Lenovo_Ideapad3 </nombre>
+                <precio> $1.399.901 </precio>
+                <color> Gris </color>
+            </Lenovo>
+        </portatil>
+
+        <portatil>
+            <Mac>
+                <nombre> Macbook_Air_13</nombre>
+                <precio> $4.799.000 </precio>
+                <color> Blanco </color>
+            </Mac>    
+        </portatil>
+        <portatil>
+            <Asus>
+                <nombre> Asus K513ea </nombre>
+                <precio> $2.890.000 </precio>
+                <color> Gris_claro </color>
+            </Asus>    
+        </portatil>
+        <portatil>
+            <Acer>
+                <nombre> Acer_Aspire_3_A315 </nombre>
+                <precio> $1.889.370 </precio>
+                <color> Azul </color>
+            </Acer>    
+        </portatil>    
+    </Pc>
+    <Pc>
+        <PcMesa> 
+            <imac>
+                <nombre> Imac_24 </nombre>
+                <precio> $6.369.000 </precio>
+                <color> Blanco </color>
+            </imac>    
+        </PcMesa>    
+        <PcMesa>
+            <Lenovo>
+                <nombre> IdeaCentre_3i_AIO </nombre>
+                <precio> $3.899.901 </precio>
+                <color> Negro </color>
+            </Lenovo>
+        </PcMesa>        
+        <PcMesa>
+            <HP>
+                <nombre> AIO_HP_24-DF0006 </nombre>
+                <precio> $1.899.000 </precio>
+                <color> Blanco </color>
+            </HP>
+        </PcMesa>               
+        <PcMesa>
+            <Dell>
+                <nombre> Dell_Inspiron_7790 </nombre>
+                <precio>  $4.859.000 </precio>
+                <color> Blanco </color>
+            </Dell>
+        </PcMesa>                
+    </Pc>
+
+    <Celular>
+        <smartphone>
+            <Samsung>
+                <nombre> SAMSUNG_Galaxy_A03 </nombre>
+                <precio> 349.900 </precio>
+                <color> Azul_Oscuro </color>
+            </Samsung>
+        </smartphone>        
+        <smartphone>
+            <iphone>
+                <nombre> iPhone_X </nombre>
+                <precio> $1.549.900 </precio>
+                <color> Gris </color>
+            </iphone>
+        </smartphone>        
+        <smartphone>
+            <Huawei>
+                <nombre> HUAWEI_Y9a </nombre>
+                <precio> $1.049.900 </precio>
+                <color> Negro </color>
+            </Huawei>
+        </smartphone>        
+        <smartphone>
+            <Xiomi>
+                <nombre> Xiaomi_Redmi_Note_11 </nombre>
+                <precio> 799.900 </precio>
+                <color> Azul_claro </color>
+            </Xiomi>
+        </smartphone>        
+    </Celular>
+    <Celular>
+        <CelularAnalogo> 
+            <Nokia>
+                <nombre> NOKIA_110 </nombre>
+                <precio> $89.990 </precio>
+                <color> Negro </color>
+            </Nokia>
+        </CelularAnalogo>        
+        <CelularAnalogo> 
+            <Bmobile>
+                <nombre> BMOBILE_K372 </nombre>
+                <precio> $60.900 </precio>
+                <color> Azul </color>
+            </Bmobile>
+        </CelularAnalogo>    
+        <CelularAnalogo> 
+            <Alcatel>
+                <nombre> P1 </nombre>
+                <precio> $25.990 </precio>
+                <color> Negro </color>
+            </Alcatel>
+        </CelularAnalogo>        
+        <CelularAnalogo> 
+            <Hyunday>
+                <nombre> Hyundai_D265 </nombre>
+                <precio> 44.900 </precio>
+                <color> Rojo </color>
+            </Hyunday>
+        </CelularAnalogo>    
+    </Celular>
+
+    <Impresora>
+        <ImpresoraLaser> 
+            <HP>
+                <nombre> HP_LaserJet_107w </nombre>
+                <precio> $590.000 </precio>
+                <color> Blacon </color>
+            </HP>
+        </ImpresoraLaser>
+        <ImpresoraLaser> 
+            <Epson>
+                <nombre> WF-2840DWF </nombre>
+                <precio> $336.459 </precio>
+                <color> Negro </color>
+            </Epson>
+        </ImpresoraLaser>    
+        <ImpresoraLaser> 
+            <Canon>
+                <nombre> Canon_Imageclass_Mf236n </nombre>
+                <precio> $2.167.900 </precio>
+                <color> Negro </color>
+            </Canon>
+        </ImpresoraLaser>
+        <ImpresoraLaser> 
+            <Samsung>
+                <nombre> Samsung_M2825dw_Xpress </nombre>
+                <precio> $4.424.900 </precio>
+                <color> Blanco </color>
+            </Samsung>
+        </ImpresoraLaser>    
+        
+    </Impresora>
+
+    <Impresora>
+        <Impresora3D> 
+            <CrealitY>
+                <nombre> Ender_3_Creality </nombre>
+                <precio> $950.000 </precio>
+                <color> Negro </color>
+            </CrealitY>
+        </Impresora3D>
+        <Impresora3D> 
+            <Artillery>
+                <nombre> Artillery_Sidewinder_X2 </nombre>
+                <precio> $2.997.000 </precio>
+                <color> Negro </color>
+            </Artillery>
+        </Impresora3D> 
+        <Impresora3D> 
+            <Anycubic>
+                <nombre> Anycubic_Mega-s </nombre>
+                <precio> $1.191.101 </precio>
+                <color> Negro </color>
+            </Anycubic>
+        </Impresora3D>
+        <Impresora3D> 
+            <Elegoo>
+                <nombre> Elegoo_Mars_2_Pro </nombre>
+                <precio> $1.656.900 </precio>
+                <color> Negro </color>
+            </Elegoo>
+        </Impresora3D>
+    </Impresora>
+
+</DispositivosElectronicos>
